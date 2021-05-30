@@ -1,0 +1,28 @@
+<record>
+<class>APP.CourseScheduleApp
+<method>lambda$2
+<time>2020-06-06 09:04:57
+<level>INFO
+<message>增加一门课程
+<Exception>null
+<record>
+<class>APP.CourseScheduleApp
+<method>lambda$2
+<time>2020-06-06 09:04:57
+<level>INFO
+<message>增加课程: zz操作成功!
+<Exception>null
+<record>
+<class>APP.CourseScheduleApp
+<method>lambda$2
+<time>2020-06-06 09:05:08
+<level>INFO
+<message>增加一门课程
+<Exception>null
+<record>
+<class>APP.CourseScheduleApp
+<method>lambda$2
+<time>2020-06-06 09:05:08
+<level>INFO
+<message>增加课程: zx操作成功!
+<Exception>null
